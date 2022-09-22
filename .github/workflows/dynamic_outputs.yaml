@@ -22,7 +22,7 @@
 # This workflow is dispatched by the "chain dispatcher" workflow and is expected
 # to run in parallel a lot.
 #
-name: chain
+name: dynamic_outputs
 
 on:
   push:
